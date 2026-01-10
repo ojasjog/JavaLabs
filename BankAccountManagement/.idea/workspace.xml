@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24672508-cfcf-48e5-9f8e-ab88bcbd54f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankAccountManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeePayrollSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FarmerHelpSystem/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FarmerHelpSystem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FarmerHelpSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FarmerHelpSystem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FarmerHelpSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FarmerHelpSystem/FarmerHelpSystem.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="37zCogePN9Fj6qGMCAmofh6Uv3R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BankAccountManagement.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ojas/Desktop/JavaLabs/BankAccountManagement/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24672508-cfcf-48e5-9f8e-ab88bcbd54f0" name="Changes" comment="" />
+      <created>1767896690454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767896690454</updated>
+      <workItem from="1767896691771" duration="3293000" />
+      <workItem from="1767939854366" duration="219000" />
+      <workItem from="1768067754471" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
