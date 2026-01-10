@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24672508-cfcf-48e5-9f8e-ab88bcbd54f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="855b39e1-120d-4b24-b568-b64580f41ca1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BankAccountManagement/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccountManagement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccountManagement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccountManagement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccountManagement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccountManagement/BankAccountManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccountManagement/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccountManagement/src/BankAccountManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccountManagement/src/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccountManagement/src/SavingsAccount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EmployeePayrollSystem/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapeAreaCalc/ShapeAreaCalc.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="37zCogePN9Fj6qGMCAmofh6Uv3R" />
+  <component name="ProjectId" id="380ckZu1BSx4szs3sDtYtWWydS2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.BankAccountManagement.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Ojas/Desktop/JavaLabs/BankAccountManagement/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Ojas/Desktop/JavaLabs/FarmerHelpSystem/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -52,15 +52,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="24672508-cfcf-48e5-9f8e-ab88bcbd54f0" name="Changes" comment="" />
-      <created>1767896690454</created>
+      <changelist id="855b39e1-120d-4b24-b568-b64580f41ca1" name="Changes" comment="" />
+      <created>1767940077094</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1767896690454</updated>
-      <workItem from="1767896691771" duration="3293000" />
-      <workItem from="1767939854366" duration="219000" />
-      <workItem from="1768067754471" duration="54000" />
-      <workItem from="1768068419248" duration="561000" />
+      <updated>1767940077094</updated>
+      <workItem from="1767940081296" duration="636000" />
+      <workItem from="1768067316293" duration="112000" />
     </task>
     <servers />
   </component>
