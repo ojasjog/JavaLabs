@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24672508-cfcf-48e5-9f8e-ab88bcbd54f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EmployeePayrollSystem/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapeAreaCalc/ShapeAreaCalc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankAccountManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccountManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentResultProcessing/StudentResultProcessing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentResultProcessing/src/ResultProcessorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentResultProcessing/src/StudentResultProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BankAccountManagement/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BankAccountManagement/BankAccountManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BankAccountManagement/CurrentAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BankAccountManagement/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankTransactExcept/src/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankTransactExcept/src/MainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +37,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/out/production/BankAccountManagement/CurrentAccount.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -31,17 +50,46 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.BankAccountManagement.executor": "Run",
+    "Application.Unnamed.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Ojas/Desktop/JavaLabs/BankAccountManagement/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountManagement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BankAccountManagement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BankAccountManagement" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,6 +109,12 @@
       <workItem from="1767939854366" duration="219000" />
       <workItem from="1768067754471" duration="54000" />
       <workItem from="1768068419248" duration="561000" />
+      <workItem from="1768238353079" duration="366000" />
+      <workItem from="1768238728549" duration="136000" />
+      <workItem from="1768238870655" duration="176000" />
+      <workItem from="1768239332269" duration="329000" />
+      <workItem from="1768239686298" duration="46000" />
+      <workItem from="1768239797471" duration="391000" />
     </task>
     <servers />
   </component>

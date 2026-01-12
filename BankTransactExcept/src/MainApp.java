@@ -5,7 +5,7 @@ public class MainApp {
         BankAccount b = new BankAccount(145678, 250000);
 
         try {
-            b.withdraw(26000);
+            b.withdraw(2600000);
         }catch (InsufficientBalanceException e){
             System.out.println("Error: " + e.getMessage());
         }
